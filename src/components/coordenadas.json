@@ -1,0 +1,25 @@
+{
+    "coordenadas": [
+        {
+            "id": "Coord 1",
+            "latitude": 4.544105,
+            "longitude": -74.089651
+        },
+        {
+            "id": "Coord 2",
+            "latitude": 4.563805,
+            "longitude": -74.097612
+        },
+        {
+            "id": "Coord 3",
+            "latitude": 4.575954,
+            "longitude": -74.094973
+        },
+        {
+            "id": "Coord 4",
+            "latitude": -74.088235,
+            "longitude": 4.523356
+        }
+
+    ]
+}

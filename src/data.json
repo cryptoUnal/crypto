@@ -1,0 +1,84 @@
+{
+    "allScore": [
+      {
+        "locality": "Bosa",
+        "value": 590
+      },
+      {
+        "locality": "Kennedy",
+        "value": 725
+      },
+      {
+        "locality": "Usme",
+        "value": 515
+      },
+      {
+        "locality": "Rafael Uribe Uribe",
+        "value": 695
+      },
+      {
+        "locality": "Engativá",
+        "value": 300
+      },
+      {
+        "locality": "Los Mártires",
+        "value": 400
+      },
+      {
+        "locality": "Teusaquillo",
+        "value": 1000
+      },
+
+      {
+        "locality": "Usaquén",
+        "value": 825
+      },
+      {
+        "locality": "Barrios Unidos",
+        "value": 265
+      },
+      {
+        "locality": "Santa Fe",
+        "value": 100
+      },
+      {
+        "locality": "Fontibón",
+        "value": 500
+      },
+
+      {
+        "locality": "Chapinero",
+        "value": 970
+      },
+      {
+        "locality": "Tunjuelito",
+        "value": 300
+      },
+      {
+        "locality": "San Cristóbal",
+        "value": 100
+      },
+      {
+        "locality": "Ciudad Bolivar",
+        "value": 40
+      },
+
+      {
+        "locality": "Antonio Narino",
+        "value": 720
+      },
+      {
+        "locality": "Suba",
+        "value": 630
+      },
+      {
+        "locality": "La Candelaria",
+        "value": 1000
+      },
+      {
+        "locality": "Puente Aranda",
+        "value": 800
+      }
+    ]
+
+}

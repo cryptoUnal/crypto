@@ -1,0 +1,35 @@
+{
+  "name": "redux-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-boost": "^0.1.16",
+    "apollo-link-http": "^1.5.5",
+    "axios": "^0.18.0",
+    "d3": "^5.7.0",
+    "google-map-react": "^1.0.9",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.0",
+    "install": "^0.12.2",
+    "npm": "^6.4.1",
+    "react": "^16.3.2",
+    "react-apollo": "^2.2.4",
+    "react-bootstrap": "^0.32.4",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^16.3.2",
+    "react-google-maps": "^9.4.5",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.3.0-rc.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "1.1.4",
+    "react-svg-piechart": "^2.1.1",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
